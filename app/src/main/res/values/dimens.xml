@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="z_small1_bubblewidth">12dp</dimen>
+    <dimen name="z_small1_bubbleheight">12dp</dimen>
+
+    <dimen name="z_small2_bubblewidth">6dp</dimen>
+    <dimen name="z_small2_bubbleheight">6dp</dimen>
+
+    <dimen name="z_small3_bubblewidth">10dp</dimen>
+    <dimen name="z_small3_bubbleheight">10dp</dimen>
+
+    <dimen name="z_small4_bubblewidth">6dp</dimen>
+    <dimen name="z_small4_bubbleheight">6dp</dimen>
+
+    <dimen name="z_small5_bubblewidth">8dp</dimen>
+    <dimen name="z_small5_bubbleheight">8dp</dimen>
+
+    <dimen name="z_small6_bubblewidth">12dp</dimen>
+    <dimen name="z_small6_bubbleheight">12dp</dimen>
+
+    <dimen name="bubblewidth">50dp</dimen>
+    <dimen name="bubble_view_width">100dp</dimen>
+    <dimen name="bubble_view_height">100dp</dimen>
+</resources>
