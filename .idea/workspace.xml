@@ -34,31 +34,33 @@
       <file leaf-file-name="BubbleView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/small/indeedfortunate/com/bubbleapplication/view/BubbleView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3286">
-              <caret line="154" column="110" selection-start-line="154" selection-start-column="110" selection-end-line="154" selection-end-column="110" />
+            <state relative-caret-position="-2025">
+              <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1106#1174#0" expanded="true" />
-                <element signature="e#1176#1245#0" expanded="true" />
-                <element signature="e#1262#1330#0" expanded="true" />
-                <element signature="e#1332#1401#0" expanded="true" />
-                <element signature="e#1418#1486#0" expanded="true" />
-                <element signature="e#1488#1557#0" expanded="true" />
-                <element signature="e#1574#1642#0" expanded="true" />
-                <element signature="e#1644#1713#0" expanded="true" />
-                <element signature="e#1730#1798#0" expanded="true" />
-                <element signature="e#1800#1869#0" expanded="true" />
-                <element signature="e#1886#1954#0" expanded="true" />
-                <element signature="e#1956#2025#0" expanded="true" />
-                <element signature="e#2170#2229#0" expanded="true" />
-                <element signature="e#2259#2324#0" expanded="true" />
-                <element signature="e#2355#2421#0" expanded="true" />
-                <element signature="e#2550#2735#0" expanded="true" />
-                <element signature="e#2734#2735#0" expanded="true" />
-                <element signature="e#2777#2778#0" expanded="true" />
-                <element signature="e#2807#2808#0" expanded="true" />
-                <element signature="e#3677#7827#0" expanded="true" />
-                <element signature="e#7826#7827#0" expanded="true" />
+                <element signature="e#1156#1224#0" expanded="true" />
+                <element signature="e#1226#1295#0" expanded="true" />
+                <element signature="e#1312#1380#0" expanded="true" />
+                <element signature="e#1382#1451#0" expanded="true" />
+                <element signature="e#1468#1536#0" expanded="true" />
+                <element signature="e#1538#1607#0" expanded="true" />
+                <element signature="e#1624#1692#0" expanded="true" />
+                <element signature="e#1694#1763#0" expanded="true" />
+                <element signature="e#1780#1848#0" expanded="true" />
+                <element signature="e#1850#1919#0" expanded="true" />
+                <element signature="e#1936#2004#0" expanded="true" />
+                <element signature="e#2006#2075#0" expanded="true" />
+                <element signature="e#2220#2279#0" expanded="true" />
+                <element signature="e#2309#2374#0" expanded="true" />
+                <element signature="e#2405#2471#0" expanded="true" />
+                <element signature="e#2600#2785#0" expanded="true" />
+                <element signature="e#2784#2785#0" expanded="true" />
+                <element signature="e#2827#2828#0" expanded="true" />
+                <element signature="e#2857#2858#0" expanded="true" />
+                <element signature="e#3129#3375#0" expanded="true" />
+                <element signature="e#3374#3375#0" expanded="true" />
+                <element signature="e#3420#7570#0" expanded="true" />
+                <element signature="e#7569#7570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1830,9 +1832,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1880,19 +1883,9 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BubbleAnimation" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1908,26 +1901,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="small" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="indeedfortunate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bubbleapplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1937,34 +1910,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="small" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="indeedfortunate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bubbleapplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2297,7 +2242,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1382" height="754" extended-state="0" />
+    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2308,7 +2253,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25932205" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16416308" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2321,7 +2266,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17574786" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Freeline" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2378,12 +2323,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/android/small/indeedfortunate/com/bubbleapplication/view/BubbleView.java</url>
-          <line>70</line>
+          <line>71</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/android/small/indeedfortunate/com/bubbleapplication/view/BubbleView.java</url>
-          <line>188</line>
+          <line>174</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -2515,31 +2460,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/android/small/indeedfortunate/com/bubbleapplication/view/BubbleView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3286">
-          <caret line="154" column="110" selection-start-line="154" selection-start-column="110" selection-end-line="154" selection-end-column="110" />
+        <state relative-caret-position="-2025">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1106#1174#0" expanded="true" />
-            <element signature="e#1176#1245#0" expanded="true" />
-            <element signature="e#1262#1330#0" expanded="true" />
-            <element signature="e#1332#1401#0" expanded="true" />
-            <element signature="e#1418#1486#0" expanded="true" />
-            <element signature="e#1488#1557#0" expanded="true" />
-            <element signature="e#1574#1642#0" expanded="true" />
-            <element signature="e#1644#1713#0" expanded="true" />
-            <element signature="e#1730#1798#0" expanded="true" />
-            <element signature="e#1800#1869#0" expanded="true" />
-            <element signature="e#1886#1954#0" expanded="true" />
-            <element signature="e#1956#2025#0" expanded="true" />
-            <element signature="e#2170#2229#0" expanded="true" />
-            <element signature="e#2259#2324#0" expanded="true" />
-            <element signature="e#2355#2421#0" expanded="true" />
-            <element signature="e#2550#2735#0" expanded="true" />
-            <element signature="e#2734#2735#0" expanded="true" />
-            <element signature="e#2777#2778#0" expanded="true" />
-            <element signature="e#2807#2808#0" expanded="true" />
-            <element signature="e#3677#7827#0" expanded="true" />
-            <element signature="e#7826#7827#0" expanded="true" />
+            <element signature="e#1156#1224#0" expanded="true" />
+            <element signature="e#1226#1295#0" expanded="true" />
+            <element signature="e#1312#1380#0" expanded="true" />
+            <element signature="e#1382#1451#0" expanded="true" />
+            <element signature="e#1468#1536#0" expanded="true" />
+            <element signature="e#1538#1607#0" expanded="true" />
+            <element signature="e#1624#1692#0" expanded="true" />
+            <element signature="e#1694#1763#0" expanded="true" />
+            <element signature="e#1780#1848#0" expanded="true" />
+            <element signature="e#1850#1919#0" expanded="true" />
+            <element signature="e#1936#2004#0" expanded="true" />
+            <element signature="e#2006#2075#0" expanded="true" />
+            <element signature="e#2220#2279#0" expanded="true" />
+            <element signature="e#2309#2374#0" expanded="true" />
+            <element signature="e#2405#2471#0" expanded="true" />
+            <element signature="e#2600#2785#0" expanded="true" />
+            <element signature="e#2784#2785#0" expanded="true" />
+            <element signature="e#2827#2828#0" expanded="true" />
+            <element signature="e#2857#2858#0" expanded="true" />
+            <element signature="e#3129#3375#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3420#7570#0" expanded="true" />
+            <element signature="e#7569#7570#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,6 +1,7 @@
 package android.small.indeedfortunate.com.bubbleapplication.view;
 
 import android.animation.Animator;
+import android.animation.AnimatorListenerAdapter;
 import android.animation.ValueAnimator;
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -72,27 +73,12 @@ public class BubbleView extends View{
 
         objectAnimator = ValueAnimator.ofFloat(1.5f, 0.0f);
         objectAnimator.setDuration(PLAY_INTERVAL_TIME);
-        objectAnimator.addListener(new Animator.AnimatorListener() {
-            @Override
-            public void onAnimationStart(Animator animation) {
-
-            }
-
+        objectAnimator.addListener(new AnimatorListenerAdapter() {
             @Override
             public void onAnimationEnd(Animator animation) {
                 if (repeatShow){
                     handler.postDelayed(runnable, 3000);
                 }
-            }
-
-            @Override
-            public void onAnimationCancel(Animator animation) {
-
-            }
-
-            @Override
-            public void onAnimationRepeat(Animator animation) {
-
             }
         });
 
