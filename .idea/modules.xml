@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BubbleAnimation.iml" filepath="$PROJECT_DIR$/BubbleAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovylibrary/groovylibrary.iml" filepath="$PROJECT_DIR$/groovylibrary/groovylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networklibrary/networklibrary.iml" filepath="$PROJECT_DIR$/networklibrary/networklibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unuselibrary/unuselibrary.iml" filepath="$PROJECT_DIR$/unuselibrary/unuselibrary.iml" />
     </modules>
   </component>
 </project>
