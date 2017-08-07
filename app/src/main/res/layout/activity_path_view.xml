@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="10dp"
+    android:layout_marginRight="10dp">
+
+    <Button
+        android:id="@+id/menu"
+        style="@style/MenuStyle"
+        android:background="@drawable/empty_shopping_cart"/>
+
+    <Button
+        android:id="@+id/item1"
+        style="@style/MenuItemStyle"
+        android:background="@drawable/nav_duobao"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/item2"
+        style="@style/MenuItemStyle"
+        android:background="@drawable/nav_invite"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/item3"
+        style="@style/MenuItemStyle"
+        android:background="@drawable/nav_lucky_wheel"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/item4"
+        style="@style/MenuItemStyle"
+        android:background="@drawable/nav_spectacular"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/item5"
+        style="@style/MenuItemStyle"
+        android:background="@drawable/nav_tv"
+        android:visibility="gone"/>
+
+</FrameLayout>

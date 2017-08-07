@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\GitHubCode\BubbleAnimation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19fd2362f84fe011bf67e408225ef36a30e385e">
+        <dex dex="E:\GitHubCode\BubbleAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4a38a1b330bd71658cb10cfd1f55c38a813f4068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GitHubCode\BubbleAnimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\GitHubCode\BubbleAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9c0a7b97795785f7a1cc3d7bfa7967ac6fb6e4b5\classes.dex" />
+    </item>
+
+</items>
